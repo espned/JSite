@@ -15,17 +15,14 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
 #### Base width of the logo 500px ( based on these width the above units mentioned )
 
 # JSite Sample Page
-![alt Home Page of Jsite](https://drive.google.com/uc?id=1WQo5FDiLfUyPoz89eLwqYpEFL3IvWD8A&export=download)
-
-
-
+![alt Home Page of Jsite](https://drive.google.com/uc?id=1LimXSW54PTOtfxcWhWNXNIs6ldr2OaMk)
 
 # Home Page of Jsite
-![alt Home Page of Jsite](https://drive.google.com/uc?id=1tGtYqV7jUVXkgOl1t10PTd9XnwZh7nPO&export=download)
+![alt Home Page of Jsite](https://drive.google.com/uc?id=1tGtYqV7jUVXkgOl1t10PTd9XnwZh7nPO)
 # Article/Tutotials Full View Page 
-![alt Home Page of Jsite](https://drive.google.com/uc?id=1JKGSFYPGueScVzW1n1jxlsViNmBc6m3K&export=download)
+![alt Home Page of Jsite](https://drive.google.com/uc?id=1JKGSFYPGueScVzW1n1jxlsViNmBc6m3K)
 # Code Block in Article/Tutotials Full View Page 
-![alt Home Page of Jsite](https://drive.google.com/uc?id=1C1F7ZQPMX9bQil1J7BBfllA9ZRFG7nfd&export=download)
+![alt Home Page of Jsite](https://drive.google.com/uc?id=1C1F7ZQPMX9bQil1J7BBfllA9ZRFG7nfd)
 # Mobile View of Home Page
-![alt Home Page of Jsite](https://drive.google.com/uc?id=1Ighk3XZUneYXLZKBdsFmK5LGH1hh6Nmu&export=download)
+![alt Home Page of Jsite](https://drive.google.com/uc?id=1Ighk3XZUneYXLZKBdsFmK5LGH1hh6Nmu)
 
