@@ -25,4 +25,15 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
 ![alt Home Page of Jsite](https://drive.google.com/uc?id=1C1F7ZQPMX9bQil1J7BBfllA9ZRFG7nfd)
 # Mobile View of Home Page
 ![alt Home Page of Jsite](https://drive.google.com/uc?id=1Ighk3XZUneYXLZKBdsFmK5LGH1hh6Nmu)
+# How to write Articles
+### images auto caption and lazy loading
+
+```HTML
+<figure class="figure">
+    <img class="lazy" data-src="https://source.unsplash.com/random/642" />
+    <figcaption>Image Caption Here</figcaption>
+  </figure>
+ ```
+  
+  
 
