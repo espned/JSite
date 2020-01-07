@@ -1,5 +1,8 @@
 # JSite - Website software based on pure HTML, CSS, JavaScript and JSON
 This is the website code based on pure HTML,CSS, JavaScript and JSON. This code is useful for developing websites who write tutorials, articles, documentation. Simple configuration steps to setup the site and easy to write articles/tutorials for your website. 
+
+![alt HTML, CSS, JavaScript, JSON](https://img.shields.io/badge/Technologies-HTML,%20CSS,%20JavaScript,%20JSON-deeppink?style=for-the-badge) ![alt Vesrion 0.1](https://img.shields.io/badge/Version-0.1-green?style=for-the-badge)
+
 # JSite Logo
 ![alt JSite Logo](https://drive.google.com/uc?id=1wMImMV9X9bxzEW3s18H716W3_ImShwQc&export=download)
 ## Alternative Logo
