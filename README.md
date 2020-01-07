@@ -44,7 +44,7 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
 - **ref** attribute holds the branch name 
 - **path** holds the path of the code file to be displayed in codeblock
 #### example code block
-[Click Here to see sample code block](https://github.com/jai43/JSite/blob/master/README.md#code-block-in-articletutotials-full-view-page)
+[Click Here to see sample code block](#code-block-in-articletutotials-full-view-page)
 
 
 
