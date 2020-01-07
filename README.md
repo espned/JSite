@@ -44,7 +44,7 @@ rep attribute holds the name of github repository from which code to be displaye
 ref attribute holds the branch name 
 path holds the path of the code file to be displayed in codeblock
 #### example code block
-(https://github.com/jai43/JSite/blob/master/README.md#code-block-in-articletutotials-full-view-page)
+[Click Here to see sample code block](https://github.com/jai43/JSite/blob/master/README.md#code-block-in-articletutotials-full-view-page)
 
 
 
