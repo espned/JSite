@@ -39,10 +39,10 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
  ```HTML
   <div class="codeBlock" owner="jai43" repo="spring-example-snippets" ref="master" embeded='{"path": "springBoot/@Bean/singleton_bean.java" },{"path": "springBoot/@Bean/prototye_bean.java" }' style="height:600px;"></div>
 ```
-owner attribute holds the owner of github reposiotry.
-rep attribute holds the name of github repository from which code to be displayed.
-ref attribute holds the branch name 
-path holds the path of the code file to be displayed in codeblock
+- **owner** attribute holds the owner of github reposiotry.
+- **rep** attribute holds the name of github repository from which code to be displayed.
+- **ref** attribute holds the branch name 
+- **path** holds the path of the code file to be displayed in codeblock
 #### example code block
 [Click Here to see sample code block](https://github.com/jai43/JSite/blob/master/README.md#code-block-in-articletutotials-full-view-page)
 
