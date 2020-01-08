@@ -37,6 +37,31 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
     <figcaption>Image Caption Here</figcaption>
   </figure>
  ```
+ 
+ #### images with preloader when using lazy loading concept
+ ```HTML
+  <figure class="figure">
+    <img class="lazy" src="images/image-pre-loader.gif" data-src="https://drive.google.com/uc?id=1tGtYqV7jUVXkgOl1t10PTd9XnwZh7nPO&export=download" />
+    <figcaption>Home Page of JSite</figcaption>
+  </figure>
+```
+#### image in the right side of the content
+```HTML
+  <figure class="figure figure-right">
+    <img class="lazy" src="images/image-pre-loader.gif" data-src="https://drive.google.com/uc?id=1wMImMV9X9bxzEW3s18H716W3_ImShwQc" />
+    <figcaption>JSite Logo</figcaption>
+  </figure>
+```
+
+#### image in the left side the contnet
+```HTML
+  <figure class="figure figure-right">
+    <img class="lazy" src="images/image-pre-loader.gif" data-src="https://drive.google.com/uc?id=1wMImMV9X9bxzEW3s18H716W3_ImShwQc" />
+    <figcaption>JSite Logo</figcaption>
+  </figure>
+```
+
+
  ### Code Blocks in Article
  Following is the snippet to add code from github repositories into article full view
  ```HTML
