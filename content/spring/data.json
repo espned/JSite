@@ -1,0 +1,51 @@
+[{
+    "article_title": "Spring Boot Introduction",
+    "article_cat": "Basic Coding",
+    "article_start_date": "17-Dec-2019",
+    "article_loadURL": "content/spring/1.html",
+    "icon": "spring",
+    "authorID":"jai"
+  },
+  {
+    "article_title": "<ht>@Bean</ht> annotation in Spring Framework",
+    "article_cat": "Basic Coding",
+    "article_start_date": "04-Jan-2020",
+    "article_loadURL": "content/spring/@bean.html",
+    "icon": "spring",
+    "authorID":"jai"
+  },
+  {
+    "article_title": "Shut down IOC container with <ht>registerShutdownHook()</ht> method",
+    "article_cat": "Basic Coding",
+    "article_start_date": "04-Jan-2020",
+    "article_loadURL": "content/spring/registerShutdownHook.html",
+    "icon": "spring",
+    "authorID":"jai"
+  },
+
+  {
+    "article_title": "<ht>BeanFactory</ht> vs <ht>ApplicationContext</ht> in Spring",
+    "article_cat": "Basic Coding",
+    "article_start_date": "17-Dec-2019",
+    "article_loadURL": "content/spring/beanfactory_vs_applicationcontext.html",
+    "icon": "spring",
+    "authorID":"jai"
+  },
+
+  {
+    "article_title": "List of <ht>annotations</ht> in Spring Core",
+    "article_cat": "Basic Coding",
+    "article_start_date": "17-Dec-2019",
+    "article_loadURL": "content/spring/annotations_list_spring.html",
+    "icon": "spring","authorID":"jai"
+  },
+
+  {
+    "article_title": "Injecting values to bean properties in Spring",
+    "article_cat": "Basic Coding",
+    "article_start_date": "17-Dec-2019",
+    "article_loadURL": "content/spring/injecting_values_into_bean_properties.html",
+    "icon": "spring",
+    "authorID":"jai"
+  }
+]
