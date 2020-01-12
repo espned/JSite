@@ -74,6 +74,66 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
 #### example code block
 [Click Here to see sample code block](#code-block-in-articletutotials-full-view-page)
 
+#### using Atom Editor 
+Atom Editor is one of the best coding editor in the world. Following are the snippets of Atom for JSite 
+```HTML
+'.html.text':
+      # snippet 1
+      'Code BLock Division':
+        'prefix': 'cbd'
+        'body': """<div class="codeBlock"
+         owner="jai43"
+         repo="${1:spring-example-snippets}"
+         ref="master"
+         embeded='{"path": "springBoot/pom.xml" },{"path":"springFramework/pom.xml"}'
+         style="height:400px;"></div>"""
+      # snippet 2
+      'Content Highlitheg block':
+        'prefix': 'cb'
+        'body': '<cb>$1</cb>'
+      # Snippet 3
+      'Topic Title':
+        'prefix': 'tt'
+        'body': """
+        <h2 class="topic_title">$1</h2>
+        """
+     # snippet 4
+      'figure with lazy load':
+        'prefix': 'fl'
+        'body': """
+        <figure class="figure">
+         <img class="lazy" src="images/image-pre-loader.gif" data-src="${1:imageurl}" />
+         <figcaption>${2:Caption of the image}</figcaption>
+       </figure>
+       """
+     # snippet 5
+      'embed video':
+        'prefix': 'ev'
+        'body': """
+        <figure class="figure figure_video">
+          <div class="videoWrapper">
+            <iframe width="560" height="349" src="${1:Video URL}" frameborder="0" allowfullscreen=""></iframe>
+          </div>
+          <figcaption>${2:Add Video Caption Here }</figcaption>
+        </figure>
+        """
+```
+
+
+Copy the above custom snippets into your Atom Snippet file.
+
+##### cbd+tab 
+for loading Coding block div into your article
+##### cb+tab
+for loading content highlight tag
+##### tt+tab
+for loading Topic title tag
+##### fl+tab
+for loading image/figure block with lazyload feature
+##### ev+tab 
+for loading video embeding div into your html page
+
+
 
 
 
