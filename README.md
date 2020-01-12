@@ -188,6 +188,17 @@ for loading order list with big size numbering
 #### olm+tab 
 for laoding order list with medium size numbering
 
+# Themes
+JSite is flexible to adjust the feel and look of the site with theme activation.
+
+There are three themes aditional to core theme
+1) moon
+2) logo
+3) bold
+
+you can change the theme in config.js file
+
+
 
 
 
