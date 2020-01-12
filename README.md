@@ -74,7 +74,9 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
 #### example code block
 [Click Here to see sample code block](#code-block-in-articletutotials-full-view-page)
 
-#### using Atom Editor 
+## using Atom Editor 
+### Snippets of JSite
+To use JSite easily try to use snippets of Atom
 Atom Editor is one of the best coding editor in the world. Following are the snippets of Atom for JSite 
 ```HTML
     '.html.text':
