@@ -77,7 +77,7 @@ This is the website code based on pure HTML,CSS, JavaScript and JSON. This code 
 #### using Atom Editor 
 Atom Editor is one of the best coding editor in the world. Following are the snippets of Atom for JSite 
 ```HTML
-'.html.text':
+    '.html.text':
       # snippet 1
       'Code BLock Division':
         'prefix': 'cbd'
@@ -110,6 +110,7 @@ Atom Editor is one of the best coding editor in the world. Following are the sni
       'embed video':
         'prefix': 'ev'
         'body': """
+
         <figure class="figure figure_video">
           <div class="videoWrapper">
             <iframe width="560" height="349" src="${1:Video URL}" frameborder="0" allowfullscreen=""></iframe>
@@ -117,6 +118,52 @@ Atom Editor is one of the best coding editor in the world. Following are the sni
           <figcaption>${2:Add Video Caption Here }</figcaption>
         </figure>
         """
+     # snippet 6
+      'Quotes of Jsite':
+        'prefix': 'quotes'
+        'body': """
+          <div class="quotes">
+          <p>${1:Add descprtion here}
+           <span class="topic">${2:Add topic name here}</span>
+          </p>
+        </div>
+        """
+     # snippet 7
+      'Order List BigNumber':
+        'prefix': 'olb'
+        'body': """
+        <div class="orderList bigNumber">
+          <h3>${1:List Title or caption here}</h3>
+          <ol>
+            <li>
+              <p class="text">${2:info1}</p>
+            </li>
+            <li>
+              <p class="text">${3:info2}</p>
+            </li>
+            <li><p class="text">${4:info3}</p>
+            </li>
+          </ol>
+          </div>
+        """
+    # snippet 8
+      'Order List mediumSizeNumber':
+        'prefix': 'olm'
+        'body': """
+      <div class="orderList mediumSizeNumber">
+        <h3>${1:List Title or caption here}</h3>
+        <ol>
+         <li>
+         <p class="text">${2:info1}</p>
+         </li>
+         <li>
+         <p class="text">${3:info2}</p>
+         </li>
+         <li><p class="text">${4:info3}</p>
+         </li>
+        </ol>
+      </div>
+   """
 ```
 
 
@@ -132,6 +179,12 @@ for loading Topic title tag
 for loading image/figure block with lazyload feature
 ##### ev+tab 
 for loading video embeding div into your html page
+##### quotes+tab
+for loading quotes snippet tempaate into  current location  on the current working html page 
+##### olb+tab
+for loading order list with big size numbering 
+#### olm+tab 
+for laoding order list with medium size numbering
 
 
 
