@@ -13,7 +13,7 @@
       border-radius: 0 10px 0 10px;
       background: #fff url(http://127.0.0.1:3000/content/spring/icon.png) no-repeat left;
       text-align: left;
-      background-size: 48px 48px;
+      background-size: 48px 48px !important;
     }
 
 
