@@ -189,7 +189,7 @@ for loading order list with big size numbering
 for laoding order list with medium size numbering
 #### curveList+tab
 
-you can add curve list to your article ! [Click to see curve list](https://drive.google.com/file/d/1kioFxiuWrm38EWEbroTdA8JDIyOeCx29/view)
+you can add curve list to your article !  <a href="https://drive.google.com/file/d/1kioFxiuWrm38EWEbroTdA8JDIyOeCx29/view" target="_blank">Click to see Curve List example</a>
 
 # Themes
 JSite is flexible to adjust the feel and look of the site with theme activation.
